@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653408434 source:c:\users\cjmee\onedrive\documents\github\game-dev-stuff\main.cpp
+	<iostream>
+	<ostream>
+	"Vector.hpp"
+
+1653407923 source:c:\users\cjmee\onedrive\documents\github\game-dev-stuff\vector.cpp
+	"VECTOR.HPP"
+
+1653408356 c:\users\cjmee\onedrive\documents\github\game-dev-stuff\vector.hpp
+
