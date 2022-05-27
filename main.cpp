@@ -1,6 +1,6 @@
 #include <iostream>
 #include <ostream>
-#include "Vector.hpp"
+#include "Vector3.h"
 
 void Start();
 void Update();
@@ -10,19 +10,17 @@ using std::cout;
 using std::endl;
 using std::ostream;
 
-ostream& operator<<(ostream&, const Vector&);
+ostream& operator<<(ostream&, const Vector3&);
 
 int main()
 {
-    Vector u = {1,2,3};
-    Vector v = {4,5,6};
-
-    cout << Dot(u,v);
+    Vector3 u = {1,2,3};
+    Vector3 v = {4,5,6};
 }
 
-ostream& operator<<(ostream& os, const Vector& V)
+ostream& operator<<(ostream& os, const Vector3& V)
 {
-    os << '(' << V.x << "," <<  V.y << "," << V.z << ')';
+    os << '(' << V.X() << "," <<  V.Y() << "," << V.Z() << ')';
 
     return os;
 }
