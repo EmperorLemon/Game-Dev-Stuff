@@ -21,15 +21,31 @@ float Vector3::magnitude() const
 
 Vector3 Vector3::Normalize() const
 {
-    //return this
+    return *this / this->magnitude();
 }
+
+
+
+
+
 
 Vector3 operator+(const Vector3& u, const Vector3& v)
 {
-    return
+    return Vector3(u.X() + v.X(), u.Y() + v.Y(), u.Z() + v.Z());
 }
 
 Vector3 operator-(const Vector3& u, const Vector3& v)
-Vector3 operator*(const Vector3& u, const float t);
-Vector3 operator/(const Vector3&, const float t);
+{
+    return Vector3(u.X() - v.X(), u.Y() - v.Y(), u.Z() - v.Z());
+}
+
+Vector3 operator*(const Vector3& u, const float t)
+{
+    return Vector3(u.X() * t, u.Y() * t, u.Z() * t);
+}
+
+Vector3 operator/(const Vector3& u, const float t)
+{
+    return Vector3(u.X() / t, u.Y() / t, u.Z() / t);
+}
 

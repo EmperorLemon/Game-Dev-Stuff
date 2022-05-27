@@ -17,7 +17,7 @@ private:
 };
 
 Vector3 operator+(const Vector3&, const Vector3&);
-Vector3 operator-(const Vector3&, const Vector3&)
+Vector3 operator-(const Vector3&, const Vector3&);
 Vector3 operator*(const Vector3&, const float);
 Vector3 operator/(const Vector3&, const float);
 

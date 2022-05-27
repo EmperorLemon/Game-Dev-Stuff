@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1653446911 source:c:\users\cjmee\onedrive\documents\github\game-dev-stuff\main.cpp
+1653660192 source:c:\users\cjmee\onedrive\documents\github\game-dev-stuff\main.cpp
 	<iostream>
 	<ostream>
-	"Vector.hpp"
+	"Vector3.h"
 
 1653446215 source:c:\users\cjmee\onedrive\documents\github\game-dev-stuff\vector.cpp
 	"VECTOR.HPP"
@@ -10,9 +10,9 @@
 
 1653446735 c:\users\cjmee\onedrive\documents\github\game-dev-stuff\vector.hpp
 
-1653660164 source:c:\users\cjmee\onedrive\documents\github\game-dev-stuff\vector3.cpp
+1653661032 source:c:\users\cjmee\onedrive\documents\github\game-dev-stuff\vector3.cpp
 	"VECTOR3.H"
 	<cmath>
 
-1653660071 c:\users\cjmee\onedrive\documents\github\game-dev-stuff\vector3.h
+1653660964 c:\users\cjmee\onedrive\documents\github\game-dev-stuff\vector3.h
 
