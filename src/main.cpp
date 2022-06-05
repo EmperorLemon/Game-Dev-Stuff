@@ -1,6 +1,7 @@
 #include <iostream>
 #include <ostream>
 #include "Vector3.h"
+#include "OBJ_LOADER.h"
 
 void Start();
 void Update();
@@ -14,8 +15,7 @@ ostream& operator<<(ostream&, const Vector3&);
 
 int main()
 {
-    Vector3 u = {1,2,3};
-    Vector3 v = {4,5,6};
+    LoadObjectFile("box.obj");
 }
 
 ostream& operator<<(ostream& os, const Vector3& V)
