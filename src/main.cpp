@@ -1,11 +1,7 @@
 #include <iostream>
 #include <ostream>
-#include "Vector3.h"
+#include "./include/Vector3.h"
 #include "OBJ_LOADER.h"
-
-void Start();
-void Update();
-void FixedUpdate();
 
 using std::cout;
 using std::endl;
