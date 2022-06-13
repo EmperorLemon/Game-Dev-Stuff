@@ -1,0 +1,12 @@
+*.tlog
+*.obj
+*.vsidx
+*.tlog
+*.pdb
+*.suo
+*.db
+*.ipch
+*.suo
+*.db
+*.lock
+*.obj
