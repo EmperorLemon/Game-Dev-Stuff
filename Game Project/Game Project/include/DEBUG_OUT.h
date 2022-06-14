@@ -1,6 +1,8 @@
 #ifndef DEBUG_OUT_H
 #define DEBUG_OUT_H
 
-ostream& operator<<(ostream& os, const Vector3& V);
+#include "Vector3.h"
+
+std::ostream& operator<<(std::ostream& os, const Vector3& V);
 
 #endif
