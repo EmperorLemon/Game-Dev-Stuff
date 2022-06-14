@@ -1,4 +1,4 @@
-#include "Mesh.h"
+#include "./include/Mesh.h"
 
 using std::vector;
 

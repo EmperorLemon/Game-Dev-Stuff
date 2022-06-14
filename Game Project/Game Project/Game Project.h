@@ -1,8 +1,5 @@
-﻿// Game Project.h : Include file for standard system include files,
-// or project specific include files.
-
-#pragma once
+﻿#pragma once
 
 #include <iostream>
-
-// TODO: Reference additional headers your program requires here.
+#include "./include/Math/Vector3.h"
+#include "./include/OBJ_LOADER.h"

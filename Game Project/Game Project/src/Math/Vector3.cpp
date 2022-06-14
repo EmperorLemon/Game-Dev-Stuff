@@ -1,4 +1,4 @@
-#include "VECTOR3.H"
+#include "./include/Math/VECTOR3.H"
 
 #include "MATH_STUFF.H"
 #include <stdexcept>

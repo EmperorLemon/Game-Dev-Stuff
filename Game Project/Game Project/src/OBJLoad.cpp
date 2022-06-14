@@ -1,5 +1,5 @@
-#include "OBJ_LOADER.H"
-#include "Mesh.h"
+#include "./include/OBJ_LOADER.H"
+#include "./include/Mesh.h"
 
 #include <iostream>
 #include <fstream>

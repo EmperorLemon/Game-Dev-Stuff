@@ -1,5 +1,5 @@
-#include "VECTOR2.H"
-#include "MATH_STUFF.H"
+#include "./include/Math/VECTOR2.H"
+#include "./include/Math/MATH_STUFF.H"
 #include <stdexcept>
 
 
