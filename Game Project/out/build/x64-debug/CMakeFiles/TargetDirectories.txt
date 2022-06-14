@@ -1,5 +1,0 @@
-C:/Users/cjmee/OneDrive/Documents/GitHub/Game-Dev-Stuff/Game Project/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/cjmee/OneDrive/Documents/GitHub/Game-Dev-Stuff/Game Project/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/cjmee/OneDrive/Documents/GitHub/Game-Dev-Stuff/Game Project/out/build/x64-debug/Game Project/CMakeFiles/CMakeTarget.dir
-C:/Users/cjmee/OneDrive/Documents/GitHub/Game-Dev-Stuff/Game Project/out/build/x64-debug/Game Project/CMakeFiles/edit_cache.dir
-C:/Users/cjmee/OneDrive/Documents/GitHub/Game-Dev-Stuff/Game Project/out/build/x64-debug/Game Project/CMakeFiles/rebuild_cache.dir
